@@ -1,1 +1,3 @@
-#aula javascipt
+# aula javascript
+
+Introdução ao Javascript
